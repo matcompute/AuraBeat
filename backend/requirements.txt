@@ -1,0 +1,13 @@
+Flask==2.3.2
+flask-cors==3.0.10
+firebase-admin==6.0.1
+deepface==0.0.79
+opencv-python==4.7.0.72
+numpy==1.23.5          # ✅ Compatible with TensorFlow 2.12.0
+Pillow==9.5.0
+tensorflow==2.12.0
+ml-dtypes==0.2.0
+pymongo
+python-dotenv
+bcrypt
+flask-jwt-extended

@@ -1,0 +1,7 @@
+[
+  { "model": "TinyCNN", "accuracy": 54.29, "fps": 11.35 },
+  { "model": "DeepFace-retinaface", "accuracy": 42.86, "fps": 0.3 },
+  { "model": "DeepFace-opencv", "accuracy": 50.0, "fps": 10.62 },
+  { "model": "RMN (simulated)", "accuracy": 74.1, "fps": 4.7 },
+  { "model": "ViT-lite (simulated)", "accuracy": 71.2, "fps": 1.5 }
+]

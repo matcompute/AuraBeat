@@ -1,0 +1,22 @@
+[
+  {
+    "model": "TinyCNN",
+    "accuracy": 54.29,
+    "fps": 11.35
+  },
+  {
+    "model": "DeepFace-retinaface",
+    "accuracy": 42.86,
+    "fps": 0.3
+  },
+  {
+    "model": "DeepFace-opencv",
+    "accuracy": 50.0,
+    "fps": 10.62
+  },
+  {
+    "model": "HSEmotion-ONNX",
+    "accuracy": 10.0,
+    "fps": 22.41
+  }
+]
