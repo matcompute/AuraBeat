@@ -67,6 +67,7 @@ npm start
 📁 Folder Structure
 css
 Copy
+```plaintext
 AuraBeat/
 ├── backend/             ← Flask-based emotion detection
 │   ├── models/          ← TinyCNN & DeepFace models
@@ -76,12 +77,13 @@ AuraBeat/
 ├── benchmark/           ← Accuracy and FPS logs
 ├── figures/             ← Graphs, screenshots, charts
 └── README.md
-🧪 Datasets Used
+```
+## 🧪 Datasets Used
 FER2013 for model training/evaluation
 
 Internal test images for inference benchmarks
 
-📈 Future Work
+## 📈 Future Work
 Deploy RMN and ViT-lite with GPU acceleration
 
 ONNX.js integration for full browser-side inference
@@ -90,7 +92,7 @@ Raspberry Pi deployment with picamera2 and local audio output
 
 Cloud sync for emotion logs and personalized playlists
 
-📜 License
+## 📜 License
 MIT License – see LICENSE file.
 
 👥 Authors
