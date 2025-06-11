@@ -31,7 +31,7 @@ AuraBeat is a real-time facial expression recognition system that detects user e
 ## 🧩 System Architecture
 
 ```plaintext
-```
+
 [ Webcam ] 
     ↓
 [ Emotion Detection Backend (Flask + TinyCNN) ]
@@ -42,8 +42,9 @@ AuraBeat is a real-time facial expression recognition system that detects user e
     ↓
 [ Audio Playback + User Feedback Storage ]
 📸 UI Preview
-
 ```
+```
+
 ```
 ## 🛠️ How to Run
 1. Clone Repository
