@@ -49,7 +49,7 @@ AuraBeat is a real-time facial expression recognition system that detects user e
 1. Clone Repository
 bash
 Copy
-git clone https://github.com/yourusername/AuraBeat.git
+git clone https://github.com/matcompute/AuraBeat.git
 cd AuraBeat
 2. Backend (Python + Flask)
 bash
